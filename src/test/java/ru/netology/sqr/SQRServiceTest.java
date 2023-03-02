@@ -1,7 +1,8 @@
+package ru.netology.sqr;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
-import ru.netology.sqr.SQRService;
 
 public class SQRServiceTest {
     @ParameterizedTest
